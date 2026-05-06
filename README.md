@@ -1,4 +1,4 @@
-# 🚀 SmartShift: Automated Validation & Telegram Reporting
+<img width="534" height="534" alt="image" src="https://github.com/user-attachments/assets/9d76c995-52ce-4016-9c2d-59a128af24a4" /># 🚀 SmartShift: Automated Validation & Telegram Reporting
 
 **SmartShift** adalah solusi otomasi *backend* berbasis n8n yang dirancang untuk mengelola pendaftaran shift pegawai secara mandiri, akurat, dan terverifikasi. Sistem ini menghilangkan proses manual dalam pengecekan jadwal dan memastikan setiap pengajuan mematuhi aturan perusahaan serta standar keselamatan kerja (K3).
 
@@ -54,6 +54,7 @@ Salah satu keunggulan utama SmartShift adalah **fleksibilitas kebijakan**. Admin
 ## 📸 Panduan Dokumentasi (Screenshot)
 1.  **Dashboard Kontrol (Spreadsheet)**.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdd9d3a1-8add-4548-9046-52dd78ab6acb" />
+    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4daa183c-a5c0-44c0-aab2-c684f761c61b" />
 2.  **Arsitektur Workflow (n8n)**.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fff311c3-fe8d-480c-ae67-a6c6bc1e9f8d" />
 3.  **Halaman Konfirmasi (Web)**.
@@ -63,6 +64,6 @@ Salah satu keunggulan utama SmartShift adalah **fleksibilitas kebijakan**. Admin
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f3bf2b45-d914-4617-b956-3a4c1727f30c" />
 ---
 
-**Author:** Syahril
+**Author:** Pinochle (╥﹏╥)
 **System Date:** 2026  
 **Tools:** n8n, Google Workspace, Telegram API.
