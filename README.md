@@ -1,4 +1,4 @@
-<img width="534" height="534" alt="image" src="https://github.com/user-attachments/assets/9d76c995-52ce-4016-9c2d-59a128af24a4" /># 🚀 SmartShift: Automated Validation & Telegram Reporting
+🚀 SmartShift: Automated Validation & Telegram Reporting
 
 **SmartShift** adalah solusi otomasi *backend* berbasis n8n yang dirancang untuk mengelola pendaftaran shift pegawai secara mandiri, akurat, dan terverifikasi. Sistem ini menghilangkan proses manual dalam pengecekan jadwal dan memastikan setiap pengajuan mematuhi aturan perusahaan serta standar keselamatan kerja (K3).
 
