@@ -1,4 +1,4 @@
-🚀 SmartShift: Automated Validation & Telegram Reporting
+# 🚀 SmartShift: Automated Validation & Telegram Reporting
 
 **SmartShift** adalah solusi otomasi *backend* berbasis n8n yang dirancang untuk mengelola pendaftaran shift pegawai secara mandiri, akurat, dan terverifikasi. Sistem ini menghilangkan proses manual dalam pengecekan jadwal dan memastikan setiap pengajuan mematuhi aturan perusahaan serta standar keselamatan kerja (K3).
 
@@ -52,18 +52,18 @@ Salah satu keunggulan utama SmartShift adalah **fleksibilitas kebijakan**. Admin
 ---
 
 ## 📸 Panduan Dokumentasi (Screenshot)
-1.  **Dashboard Kontrol (Spreadsheet)**.
+1.  **Dashboard Kontrol (Spreadsheet)**: Menampilkan data jadwal yang masuk dan tabel aturan (1/0).
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdd9d3a1-8add-4548-9046-52dd78ab6acb" />
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4daa183c-a5c0-44c0-aab2-c684f761c61b" />
-2.  **Arsitektur Workflow (n8n)**.
+2.  **Arsitektur Workflow (n8n)**: Tampilan seluruh node yang terhubung rapi dengan Sticky Notes penjelasan.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fff311c3-fe8d-480c-ae67-a6c6bc1e9f8d" />
-3.  **Halaman Konfirmasi (Web)**.
+3.  **Halaman Konfirmasi (Web)**: Tampilan browser "Data Terkirim!" setelah user klik submit.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac81a96d-e0f8-453c-94af-8f309eba5848" />
 4.  **Bukti Output (Email & Telegram)**: Screenshot hasil konfirmasi Gmail yang estetik dan pesan rekap di grup Telegram.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/879880c4-505c-4282-82a8-498b2f1edcf6" />
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f3bf2b45-d914-4617-b956-3a4c1727f30c" />
 ---
 
-**Author:** Pinochle (╥﹏╥)
+**Author:** Syahril (╥﹏╥) 
 **System Date:** 2026  
 **Tools:** n8n, Google Workspace, Telegram API.
