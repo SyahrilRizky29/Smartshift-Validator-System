@@ -63,6 +63,6 @@ Salah satu keunggulan utama SmartShift adalah **fleksibilitas kebijakan**. Admin
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f3bf2b45-d914-4617-b956-3a4c1727f30c" />
 ---
 
-**Author:** Syahril 
+**Author:** Syahril
 **System Date:** 2026  
 **Tools:** n8n, Google Workspace, Telegram API.
