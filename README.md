@@ -59,8 +59,9 @@ Salah satu keunggulan utama SmartShift adalah **fleksibilitas kebijakan**. Admin
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdd9d3a1-8add-4548-9046-52dd78ab6acb" />
 3.  **Halaman Konfirmasi (Web)**: Tampilan browser "Data Terkirim!" setelah user klik submit.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac81a96d-e0f8-453c-94af-8f309eba5848" />
-4.  **Bukti Output (Email & Telegram)**: Screenshot hasil konfirmasi Gmail yang estetik dan pesan rekap di grup Telegram.
+4.  **Bukti Output (Email & Telegram)**: Screenshot hasil konfirmasi Gmail dan pesan rekap di grup Telegram.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/879880c4-505c-4282-82a8-498b2f1edcf6" />
+    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/35235d0b-fb72-4133-a3ca-e03605862e39" />
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f3bf2b45-d914-4617-b956-3a4c1727f30c" />
 ---
 
