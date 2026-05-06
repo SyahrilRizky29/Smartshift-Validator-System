@@ -1,0 +1,70 @@
+{
+  "name": "Mini-Server (Webhook)",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "sukses-shift",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        32,
+        -32
+      ],
+      "id": "fdd10d0f-62af-406b-89f8-c5c1172e881e",
+      "name": "Webhook",
+      "webhookId": "108b443d-8672-4962-af88-1fa80fe4e22e"
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "<div style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 50px; background-color: #f4f7f6; min-height: 100vh;\">\n  <div style=\"max-width: 450px; margin: auto; border-radius: 20px; background: white; padding: 40px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); border: 1px solid #e1e8e7;\">\n    <div style=\"font-size: 60px; margin-bottom: 20px;\">🚀</div>\n    <h1 style=\"color: #2d3436; margin-bottom: 10px;\">Data Terkirim!</h1>\n    <p style=\"color: #636e72; line-height: 1.6;\">Terima kasih! Jadwal Anda sedang diproses oleh <b>SmartShift System</b>.</p>\n    \n    <div style=\"background: #e1f5fe; color: #0288d1; padding: 15px; border-radius: 12px; margin: 25px 0; font-size: 0.9em;\">\n      <b>PENTING:</b> Silakan cek <b>Email</b> atau grup <b>Telegram</b> beberapa saat lagi untuk melihat status verifikasi jadwal Anda.\n    </div>\n    \n    <a href=\"javascript:history.back()\" style=\"display: inline-block; text-decoration: none; background: #00b894; color: white; padding: 12px 25px; border-radius: 8px; font-weight: bold; transition: 0.3s;\">Input Jadwal Lain</a>\n  </div>\n</div>",
+        "options": {
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "text/html"
+              }
+            ]
+          }
+        }
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        240,
+        -32
+      ],
+      "id": "1dfc4951-f04e-49a5-b3c4-91be942ff9a6",
+      "name": "Respond to Webhook"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "0df6d006-4066-497a-9642-feb34014c2a9",
+  "meta": {
+    "instanceId": "e7762260969ce1b1f607bc86cdcbb8007b0ded25e792ccdc3c7592b5a1230f59"
+  },
+  "id": "wfDGOIAVXpi8o4AF",
+  "tags": []
+}
