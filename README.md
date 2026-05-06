@@ -53,7 +53,7 @@ Salah satu keunggulan utama SmartShift adalah **fleksibilitas kebijakan**. Admin
 
 ## 📸 Panduan Dokumentasi (Screenshot)
 1.  **Dashboard Kontrol (Spreadsheet)**: Menampilkan data jadwal yang masuk dan tabel aturan (1/0).
-     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fff311c3-fe8d-480c-ae67-a6c6bc1e9f8d" />
+    <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/59d45287-4da5-44df-beaa-9f9b8f43bcfb" />
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4daa183c-a5c0-44c0-aab2-c684f761c61b" />
 2.  **Arsitektur Workflow (n8n)**: Tampilan seluruh node yang terhubung rapi dengan Sticky Notes penjelasan.
     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdd9d3a1-8add-4548-9046-52dd78ab6acb" />
