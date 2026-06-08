@@ -1,6 +1,6 @@
 # 🚀 SmartShift: Automated Validation & Telegram Reporting
 
-**SmartShift v2.0** adalah solusi otomasi *backend* berbasis n8n yang dirancang untuk mengelola pendaftaran paket shift pegawai mingguan secara mandiri, akurat, dan terverifikasi secara *real-time*. Sistem ini mengeliminasi proses birokrasi manual dalam manajemen jadwal kerja dan memastikan setiap pengajuan mematuhi aturan internal serta standar ketat keselamatan kerja (K3 Fatigue Rule).
+**SmartShift** adalah solusi otomasi *backend* berbasis n8n yang dirancang untuk mengelola pendaftaran paket shift pegawai mingguan secara mandiri, akurat, dan terverifikasi secara *real-time*. Sistem ini mengeliminasi proses birokrasi manual dalam manajemen jadwal kerja dan memastikan setiap pengajuan mematuhi aturan internal serta standar ketat keselamatan kerja (K3 Fatigue Rule).
 
 ---
 
