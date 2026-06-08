@@ -91,7 +91,7 @@ Digunakan oleh Atasan atau Manajer Operasional langsung di lapangan jika terjadi
 
 1. **Dashboard Kontrol (Spreadsheet)**: Menampilkan data rekap jadwal mingguan karyawan dan kontrol tabel aktivasi aturan fitur (1/0).
    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/07663de4-193c-44c3-8886-2e86961bc061" />
-   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/20e7cf4a-0823-4b63-abbf-8fe934fbb402" />
+   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c0cc4ad2-ac60-45cb-9379-6158e535b59b" />
 
 2. **Arsitektur Workflow (n8n Canvas)**: Tampilan visual seluruh node Core Logic (Gate Validation) dan Mini-Server Webhook Responder yang terhubung rapi dengan dokumentasi Sticky Notes.
    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a9193b9b-a53a-4e81-9b50-1930de9cd014" />
