@@ -99,5 +99,5 @@ Admin operasional atau manajer HR dapat mengubah atau mematikan fungsi validasi 
    <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/3c2f3917-d787-4a6c-b513-dcf66aa9e42b" />
    <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/39d5548d-2ced-4139-8da2-0bc764ea849c" />
    <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/21023b77-eddf-4f2b-8469-8fb166771b5d" />
-   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ebaff74c-2835-4506-af4e-cb343b1d7fa3" />
+   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/72dd9d4d-379c-4fd5-a901-b0bed7946989" />
 ---
